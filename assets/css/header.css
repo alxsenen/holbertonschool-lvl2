@@ -51,8 +51,14 @@
 	font-size: 1em;
 }
 
+#header a {
+    color: #777;
+    padding: 5px;
+    text-align: center;
+}
+
 #header a:hover {
-	color: #ffffff;
+	color: #222;
 }
 
 #header a:last-child {
