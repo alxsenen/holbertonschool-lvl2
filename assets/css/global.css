@@ -13,20 +13,8 @@ html, body {
 	max-width: 1680px
 }
 
-.more {
-    background: #999;
-    padding: 5px;
-    border-radius: 4px;
-    color: #eee;
-    text-decoration: none;
-}
-
-.more:hover {
-    background: #444;
-}
-
-.news p {
-	text-align: justify;
+body {
+    background: #fff;
 }
 
 .container {
