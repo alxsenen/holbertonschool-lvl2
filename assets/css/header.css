@@ -1,0 +1,29 @@
+/* start css for navbar */
+
+
+/* end css for navbar */
+#banner {
+    padding: 12em 0 10em 0;
+    background-image: url('https://www.iamexpat.de/sites/default/files/styles/article--full/public/general-practitioners-gps-germany.jpg?itok=j8OikpEM');
+    background-size: cover;
+    background-position: top;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+#banner h1 {
+    font-size: 3.5em;
+    font-weight: 100;
+    color: #eee;
+    line-height: 1em;
+    margin: 0 0 0.5em 0;
+    padding: 0;
+    text-shadow: 1px 2px 3px #000;
+}
+
+#banner p {
+	font-size: 1em;
+	color: #777;
+	margin-bottom: 1.75em;
+}

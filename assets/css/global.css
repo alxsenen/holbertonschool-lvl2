@@ -1,0 +1,77 @@
+html, body {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+	color: #9a9a9a;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11pt;
+	font-weight: 300;
+	line-height: 1.65;
+	max-width: 1680px
+}
+
+.more {
+    background: #999;
+    padding: 5px;
+    border-radius: 4px;
+    color: #eee;
+    text-decoration: none;
+}
+
+.more:hover {
+    background: #444;
+}
+
+.news p {
+	text-align: justify;
+}
+
+.container {
+	margin: auto;
+	width: 80em;
+}
+
+p {
+	margin: 0 0 2em 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #333;
+    font-weight: 300;
+    margin: 5px;
+}
+
+h3 {
+	font-size: 1.35em;
+}
+
+hr {
+	border: 0;
+	border-bottom: solid 1px #dbdbdb;
+	margin: 2em 0;
+}
+
+ul {
+	list-style: disc;
+	margin: 0 0 2em 0;
+	padding-left: 1em;
+}
+	
+a {
+	-moz-transition: color 0.2s ease-in-out;
+	-webkit-transition: color 0.2s ease-in-out;
+	-ms-transition: color 0.2s ease-in-out;
+	transition: color 0.2s ease-in-out;
+	display: inline-block;
+	padding: 0 0.75em;
+	color: inherit;
+	text-decoration: none;
+	font-size: .8em;
+}
+
+
+
+
