@@ -78,3 +78,14 @@
     border-radius: 30px;
     box-shadow: 0px 3px 4px #aaa;
 }
+
+article {
+    display: flex;
+    flex-direction: row;
+    flex: auto;
+}
+
+aside {
+    flex: 1;
+    overflow-y: auto;
+}
