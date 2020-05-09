@@ -84,3 +84,7 @@ iframe {
     border: 0;
     height: 50em;
 }
+
+#iframe {
+    background: #000;
+}
