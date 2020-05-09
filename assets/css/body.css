@@ -78,13 +78,3 @@
     border-radius: 30px;
     box-shadow: 0px 3px 4px #aaa;
 }
-
-article {
-    
-}
-
-aside {
-    display: flex;
-    flex-direction: row;
-    flex: auto;
-}
