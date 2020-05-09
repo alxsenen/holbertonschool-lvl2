@@ -80,12 +80,11 @@
 }
 
 article {
-    display: flex;
-    flex-direction: row;
-    flex: auto;
+    
 }
 
 aside {
-    flex: 1;
-    overflow-y: auto;
+    display: flex;
+    flex-direction: row;
+    flex: auto;
 }
