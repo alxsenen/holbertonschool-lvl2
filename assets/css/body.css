@@ -3,7 +3,7 @@
     padding: 20px;
     color: #777;
     text-align: justify;
-    box-shadow: 0px 4px 8px #ccc;
+    box-shadow: 0 4px 8px #ccc;
 }
 
 #news .share {
@@ -54,7 +54,7 @@
 #covid19 header h3 {
     color: #333 !important;
     font-size: 2.3em;
-    text-shadow: 0px 2px 3px #aaa;
+    text-shadow: 0 2px 3px #aaa;
     text-align: center;
 }
 
@@ -65,7 +65,7 @@
 }
 
 #covid19 hr {
-    margin: 0px auto 30px;
+    margin: 0 auto 30px;
 }
 
 .covid19-item img {
@@ -76,7 +76,7 @@
     display: inline-block;
     margin: 5px 10px;
     border-radius: 30px;
-    box-shadow: 0px 3px 4px #aaa;
+    box-shadow: 0 3px 4px #aaa;
 }
 
 iframe {
@@ -88,3 +88,11 @@ iframe {
 .dark {
     background: #000 !important;
 }
+.tweet {
+    display: inline;
+    margin-right: 5px;
+}
+.fb-share-button {
+    display: inline-grid !important;
+}
+
