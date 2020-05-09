@@ -85,6 +85,6 @@ iframe {
     height: 50em;
 }
 
-#iframe {
-    background: #000;
+.dark {
+    background: #000 !important;
 }
